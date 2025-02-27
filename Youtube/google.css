@@ -1,0 +1,196 @@
+         
+            
+            .google-logo{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                
+            }
+            .search-box{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;  
+                padding-right: 300px;
+                border-radius: 20px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border-style: solid;
+            }
+            .uber{
+                font-size: 30px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+            }
+            .pickup-textbox{
+                display: block;
+                padding-right: 150px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border-radius: 3px;
+                margin-bottom: 5px;
+                background-color: rgb(224, 215, 215);
+                border-style: hidden;
+                padding-left: 15px;
+            }
+            .destination-textbox{
+                padding-right: 150px;
+                background-color: rgb(224, 215, 215);
+                border-style: hidden;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                border-radius: 3px;
+                padding-left: 15px;
+                display: block;
+                margin-bottom: 30px;
+            }
+            .request-button{
+                color: white;
+                background: black;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+                border-style: hidden;
+                margin-right: 30px;
+                cursor: pointer;
+            }
+            .later-button{
+                font-weight: bold;
+                color: black;
+                background: rgb(224, 215, 215);
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+                border-style: hidden;
+                cursor: pointer;
+                
+            }
+            .name1{
+                font-family: Arial, Helvetica, sans-serif;
+                color: grey ;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 2px;
+                border-style: solid;
+                border-radius: 3px;
+                margin-top:50px ;
+                border-radius: 8px;
+            }
+            .name2{
+                color: grey;
+                font-family: Arial, Helvetica, sans-serif;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 10px;
+                border-style: solid;
+                border-radius: 8px;
+                                
+            }
+            .email{
+                font-family: Arial, Helvetica, sans-serif;
+                color:grey ;
+                padding-top: 10px;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                padding-bottom: 10px;
+                padding-left: 15px;
+                padding-right: 207px;
+                border-radius: 3px;
+                display: block;
+                border-style: solid;
+                border-radius: 8px;
+            }
+            .signup-button{
+                font-weight: bold;
+                color: white;
+                background: rgb(0, 102, 255);
+                padding-top: 15px;
+                padding-bottom: 15px;
+                padding-left: auto;
+                padding-right: auto;
+                border-style: hidden;
+                display: block;
+                cursor: pointer;
+                width: 400px;
+                border-radius: 8px;
+            }
+            .g-div{
+                background-color: red;
+                height: 40px;
+                width: 40px;
+                margin-top: 20px;
+                display: inline-block;
+            }
+            .r-div{
+                background-color: green;
+                height: 40px;
+                width: 40px;
+                border-radius: 50px;
+                display: inline-block;
+            }
+            .y-music{
+                background-color: rgb(44, 42, 42); 
+                height: 150px;
+                width: 500px;
+                border-color: grey;
+            }
+            .service{
+                border-style: solid; 
+                height: 150px;
+                width: 500px;
+                border-color: grey;
+            }
+            .elevend-div{
+                display: grid;
+                grid-template-columns: 220px 220px 220px;
+                margin-top: 30px;
+                column-gap: 0;
+                
+            }
+            .peter{
+               height: 160px;
+               width: 150px; 
+            }
+            .brian{
+                
+                height: 40px;
+                width: 40px;
+                border-radius: 20px;
+
+            }
+            .profile-pic{
+                display: grid;
+                grid-template-columns: 50px 1fr;
+                margin-top: 5px;
+            }
+            .p{
+                font-family: Arial, Helvetica, sans-serif;
+                color: grey;
+                
+            }
+            .name{
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                margin-bottom: 0; 
+
+        }
+        .add-friend{
+            color: white;
+            background-color: rgb(0, 102, 255);
+            border-style: hidden;
+            border-radius: 3px;
+            width: 90px;
+            height: 35px;
+            font-family: Arial, Helvetica, sans-serif;
+            cursor: pointer;
+
+        }
+        .p-div{
+            align-items: center;
+        }
+           
+            
+ 
